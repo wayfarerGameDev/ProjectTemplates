@@ -1,7 +1,7 @@
 # ProjectTemplates
 
 <h2>Make Install</h2>
--Press Win + R together to open the Run window.
+-Press Win + R together to open the Run window.\n
 -Type cmd and press Enter to bring up the Command Prompt.
 -Type the command Winget install GnuWin32.make and press Enter.
 -After installation, press Win + R again.
