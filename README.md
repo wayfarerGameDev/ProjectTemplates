@@ -10,4 +10,4 @@
 <li>Under the variable name, enter make.</li>
 <li>Under Variable value, enter C:\Program Files(x86)\GnuWin32\bin\make.exe.</li>
 </ul>
-<style color = "#303030">I recommend you making a developer folder in doucments and moving GnuWin32 there (Make sure to update system variable to new path).</style>
+<font color="#9900FF">I recommend you making a developer folder in doucments and moving GnuWin32 there (Make sure to update system variable to new path).</font>
