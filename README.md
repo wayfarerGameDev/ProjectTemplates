@@ -1,14 +1,11 @@
-<h1>Assembely_6502 (Nintendo NES | Commander X16)<h1>
-
+<h1>Assembely_6502 (Nintendo NES | Commander X16)</h1>
 <p>https://www.youtube.com/watch?v=RtY5FV5TrIU&t=263s</p>
-
 <h2>Visual Studio extensions</h2>
 <ul>
 <li>ca65 Macro Assembler Language Support (6502/65816) : Cole Campbell</li>
 </ul>
 
-<h1>C/CPP</h1>
-
+<h1>C/C++</h1>
 <h2>Make Install (Windows : Run Window / Command Propmpt)</h2>
 <ul>
 <li>Press Win + R together to open the Run window.</li>
@@ -21,7 +18,7 @@
 </ul>
 <h3>I recommend you making a developer folder in doucments and moving GnuWin32 there (Make sure to update system variable to new path).</h3>
 
-<h2>MinGW C/C++ Install (Windows)</h2>
+<h2>MinGW Install(Compiler) (Windows)</h2>
 <p>
 https://techdecodetutorials.com/download/
 </p>
@@ -34,3 +31,17 @@ https://techdecodetutorials.com/download/
 <li>Add  ***MYPATH****/MinGW/bin to system variables</li>
 </ul>
 <h3>I recommend you making a developer folder in doucments and moving MinGw there (Make sure to update system variable to new path).</h3>
+
+<h2>Visual Studio extensions</h2>
+<ul>
+<li>C/C++ : Microsoft</li>
+</ul>
+
+<h1>C# (Monogame) (Windows, Linux, Mac)</h1>
+<p>Setup Dotnet / Monogame</p>
+<p>https://medium.com/learning-c-by-developing-games/getting-started-with-c-monogame-in-vs-code-2c26c7f198c2</p>
+
+<h2>Visual Studio extensions</h2>
+<ul>
+<li>C# : Microsoft</li>
+</ul>
