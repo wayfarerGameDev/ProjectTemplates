@@ -1,7 +1,7 @@
 #include <iostream> // cout
 using namespace std; // cout
 
-int main()
+main(int argc, char** argv)
 {
     cout << "Welcome to C++" << endl;
     return 0;
