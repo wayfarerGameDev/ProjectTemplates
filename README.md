@@ -1,5 +1,11 @@
 # ProjectTemplates
 
+<h1>Assembely_6502 (Nintendo NES)<h1>
+
+
+
+<h1>C/CPP (Visual Studio Code)</h1>
+
 <h2>Make Install (Windows : Run Window / Command Propmpt)</h2>
 <ul>
 <li>Press Win + R together to open the Run window.</li>
@@ -25,3 +31,8 @@ https://techdecodetutorials.com/download/
 <li>Add  ***MYPATH****/MinGW/bin to system variables</li>
 </ul>
 <h3>I recommend you making a developer folder in doucments and moving MinGw there (Make sure to update system variable to new path).</h3>
+
+<h2>Visual Studio extensions</h2>
+<ul>
+<li>C/C++ : Microsoft</li>
+</ul>
