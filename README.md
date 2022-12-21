@@ -38,10 +38,7 @@ https://techdecodetutorials.com/download/
 </ul>
 
 <h1>C# (Monogame) (Windows, Linux, Mac)</h1>
-<p>https://dotnet.microsoft.com/en-us/download/dotnet/6.0</p>
-<ul>
-<li>Install dotnet 6 SDK, Runtime and Desktop Runtime..</li>
-</ul>
+<p>https://medium.com/learning-c-by-developing-games/getting-started-with-c-monogame-in-vs-code-2c26c7f198c2</p>
 
 <h2>Visual Studio extensions</h2>
 <ul>
