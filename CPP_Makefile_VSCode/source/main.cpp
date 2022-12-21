@@ -1,8 +1,8 @@
-#include <iostream>
+#include <iostream> // cout
+using namespace std; // cout
 
-// Driver Code
 int main()
 {
-    std::cout << "Welcome to C++";
+    cout << "Welcome to C++" << endl;
     return 0;
 }
