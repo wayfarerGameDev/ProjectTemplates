@@ -38,6 +38,7 @@ https://techdecodetutorials.com/download/
 </ul>
 
 <h1>C# (Monogame) (Windows, Linux, Mac)</h1>
+<p>Setup Dotnet / Monogame</p>
 <p>https://medium.com/learning-c-by-developing-games/getting-started-with-c-monogame-in-vs-code-2c26c7f198c2</p>
 
 <h2>Visual Studio extensions</h2>
