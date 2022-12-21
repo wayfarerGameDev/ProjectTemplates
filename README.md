@@ -34,3 +34,19 @@ https://techdecodetutorials.com/download/
 <li>Add  ***MYPATH****/MinGW/bin to system variables</li>
 </ul>
 <h3>I recommend you making a developer folder in doucments and moving MinGw there (Make sure to update system variable to new path).</h3>
+
+<h2>Visual Studio extensions</h2>
+<ul>
+<li>C/C++ : Microsoft</li>
+</ul>
+
+<h1>C# (Monogame) (Windows, Linux, Mac)</h1>
+<p>https://dotnet.microsoft.com/en-us/download/dotnet/6.0</p>
+<ul>
+<li>Install dotnet 6 SDK and Runtime.</li>
+</ul>
+
+<h2>Visual Studio extensions</h2>
+<ul>
+<li>C# : Microsoft</li>
+</ul>
