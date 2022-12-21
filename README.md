@@ -1,6 +1,11 @@
-<h1>Assembely_6502 (Nintendo NES)<h1>
+<h1>Assembely_6502 (Nintendo NES | Commander X16)<h1>
 
+<p>https://www.youtube.com/watch?v=RtY5FV5TrIU&t=263s</p>
 
+<h2>Visual Studio extensions</h2>
+<ul>
+<li>ca65 Macro Assembler Language Support (6502/65816) : Cole Campbell</li>
+</ul>
 
 <h1>C/CPP</h1>
 
@@ -29,8 +34,3 @@ https://techdecodetutorials.com/download/
 <li>Add  ***MYPATH****/MinGW/bin to system variables</li>
 </ul>
 <h3>I recommend you making a developer folder in doucments and moving MinGw there (Make sure to update system variable to new path).</h3>
-
-<h2>Visual Studio extensions</h2>
-<ul>
-<li>C/C++ : Microsoft</li>
-</ul>
