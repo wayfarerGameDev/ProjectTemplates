@@ -18,7 +18,7 @@
 </ul>
 <h3>I recommend you making a developer folder in doucments and moving GnuWin32 there (Make sure to update system variable to new path).</h3>
 
-<h2>MinGW C/C++ Install (Windows)</h2>
+<h2>MinGW Install(Compiler) (Windows)</h2>
 <p>
 https://techdecodetutorials.com/download/
 </p>
