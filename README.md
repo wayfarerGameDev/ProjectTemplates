@@ -40,7 +40,7 @@ https://techdecodetutorials.com/download/
 <h1>C# (Monogame) (Windows, Linux, Mac)</h1>
 <p>https://dotnet.microsoft.com/en-us/download/dotnet/6.0</p>
 <ul>
-<li>Install dotnet 6 SDK and Runtime.</li>
+<li>Install dotnet 6 SDK, Runtime and Desktop Runtime..</li>
 </ul>
 
 <h2>Visual Studio extensions</h2>
