@@ -1,14 +1,11 @@
-<h1>Assembely_6502 (Nintendo NES | Commander X16)<h1>
-
+<h1>Assembely_6502 (Nintendo NES | Commander X16)</h1>
 <p>https://www.youtube.com/watch?v=RtY5FV5TrIU&t=263s</p>
-
 <h2>Visual Studio extensions</h2>
 <ul>
 <li>ca65 Macro Assembler Language Support (6502/65816) : Cole Campbell</li>
 </ul>
 
 <h1>C/CPP</h1>
-
 <h2>Make Install (Windows : Run Window / Command Propmpt)</h2>
 <ul>
 <li>Press Win + R together to open the Run window.</li>
