@@ -2,7 +2,7 @@
 
 
 
-<h1>C/CPP (Visual Studio Code)</h1>
+<h1>C/CPP</h1>
 
 <h2>Make Install (Windows : Run Window / Command Propmpt)</h2>
 <ul>
