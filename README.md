@@ -11,3 +11,17 @@
 <li>Under Variable value, enter C:\Program Files(x86)\GnuWin32\bin\make.exe.</li>
 </ul>
 <h3>I recommend you making a developer folder in doucments and moving GnuWin32 there (Make sure to update system variable to new path).</h3>
+
+<h2>MinGW C/C++ Install (Windows)</h2>
+<p>
+https://techdecodetutorials.com/download/
+</p>
+<ul>
+<li>Extract</li>
+<li>Unzip file</li>
+<li>Make path to ***MYPATH****/MinGW/bin</li>
+<li>After installation, press Win + R again.</li>
+<li>Type systempropertiesadvanced and press Enter.</li>
+<li>Add  ***MYPATH****/MinGW/bin to system variables</li>
+</ul>
+<h3>I recommend you making a developer folder in doucments and moving MinGw there (Make sure to update system variable to new path).</h3>
