@@ -1,5 +1,3 @@
-# ProjectTemplates
-
 <h1>Assembely_6502 (Nintendo NES)<h1>
 
 
